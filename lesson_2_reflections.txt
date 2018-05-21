@@ -1,0 +1,7 @@
+working directory is where the final repo is installed. A centralize place where all other repos are connected.
+
+repository is a place for every git user that is installed in their respective computers
+
+
+
+Mis pensamientos para agregar un sólo file al stagin area y por tanto un commit por unidad logica son utilizando el git add file_name
